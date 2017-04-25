@@ -55,7 +55,7 @@
   "dependencies": {
     "ajv": "^5.0.0",
     "debug": "^2.2.0",
-    "feathers-errors": "^2.4.0",
+    "feathers-errors": "^2.7.0",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
